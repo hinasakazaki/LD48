@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: c964c61f7f7b54e109d654c4bf7121e3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc
+    21300002: npc_0
+    21300004: npc_1
+    21300006: npc_2
+    21300008: npc_3
+    21300010: npc_4
+    21300012: npc_5
+    21300014: npc_6
+    21300016: npc_7
+    21300018: npc_8
+    21300020: npc_9
+    21300022: npc_10
+    21300024: npc_11
+    21300026: npc_12
+    21300028: npc_13
+    21300030: npc_14
+    21300032: npc_15
+    21300034: npc_16
+    21300036: npc_17
+    21300038: npc_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1731
+        width: 171
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1923
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1751
+        width: 132
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_3
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1771
+        width: 158
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1547
+        width: 203
+        height: 497
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_5
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1914
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 887
+        width: 282
+        height: 518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 887
+        width: 286
+        height: 518
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 963
+        width: 187
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_9
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 934
+        width: 246
+        height: 410
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_10
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 943
+        width: 263
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 149
+        width: 229
+        height: 529
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 571
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 163
+        width: 266
+        height: 579
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_14
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 53
+        width: 304
+        height: 689
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_15
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 84
+        width: 483
+        height: 695
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 109
+        width: 408
+        height: 627
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1556
+        width: 229
+        height: 502
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1727
+        width: 197
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

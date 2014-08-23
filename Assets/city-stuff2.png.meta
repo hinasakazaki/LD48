@@ -1,0 +1,1225 @@
+fileFormatVersion: 2
+guid: 88b93c3a1b0b0437f8f72a10b17300d7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: city-stuff2
+    21300002: city-stuff2_0
+    21300004: city-stuff2_1
+    21300006: city-stuff2_2
+    21300008: city-stuff2_3
+    21300010: city-stuff2_4
+    21300012: city-stuff2_5
+    21300014: city-stuff2_6
+    21300016: city-stuff2_7
+    21300018: city-stuff2_8
+    21300020: city-stuff2_9
+    21300022: city-stuff2_10
+    21300024: city-stuff2_11
+    21300026: city-stuff2_12
+    21300028: city-stuff2_13
+    21300030: city-stuff2_14
+    21300032: city-stuff2_15
+    21300034: city-stuff2_16
+    21300036: city-stuff2_17
+    21300038: city-stuff2_18
+    21300040: city-stuff2_19
+    21300042: city-stuff2_20
+    21300044: city-stuff2_21
+    21300046: city-stuff2_22
+    21300048: city-stuff2_23
+    21300050: city-stuff2_24
+    21300052: city-stuff2_25
+    21300054: city-stuff2_26
+    21300056: city-stuff2_27
+    21300058: city-stuff2_28
+    21300060: city-stuff2_29
+    21300062: city-stuff2_30
+    21300064: city-stuff2_31
+    21300066: city-stuff2_32
+    21300068: city-stuff2_33
+    21300070: city-stuff2_34
+    21300072: city-stuff2_35
+    21300074: city-stuff2_36
+    21300076: city-stuff2_37
+    21300078: city-stuff2_38
+    21300080: city-stuff2_39
+    21300082: city-stuff2_40
+    21300084: city-stuff2_41
+    21300086: city-stuff2_42
+    21300088: city-stuff2_43
+    21300090: city-stuff2_44
+    21300092: city-stuff2_45
+    21300094: city-stuff2_46
+    21300096: city-stuff2_47
+    21300098: city-stuff2_48
+    21300100: city-stuff2_49
+    21300102: city-stuff2_50
+    21300104: city-stuff2_51
+    21300106: city-stuff2_52
+    21300108: city-stuff2_53
+    21300110: city-stuff2_54
+    21300112: city-stuff2_55
+    21300114: city-stuff2_56
+    21300116: city-stuff2_57
+    21300118: city-stuff2_58
+    21300120: city-stuff2_59
+    21300122: city-stuff2_60
+    21300124: city-stuff2_61
+    21300126: city-stuff2_62
+    21300128: city-stuff2_63
+    21300130: city-stuff2_64
+    21300132: city-stuff2_65
+    21300134: city-stuff2_66
+    21300136: city-stuff2_67
+    21300138: city-stuff2_68
+    21300140: city-stuff2_69
+    21300142: city-stuff2_70
+    21300144: city-stuff2_71
+    21300146: city-stuff2_72
+    21300148: city-stuff2_73
+    21300150: city-stuff2_74
+    21300152: city-stuff2_75
+    21300154: city-stuff2_76
+    21300156: city-stuff2_77
+    21300158: city-stuff2_78
+    21300160: city-stuff2_79
+    21300162: city-stuff2_80
+    21300164: city-stuff2_81
+    21300166: city-stuff2_82
+    21300168: city-stuff2_83
+    21300170: city-stuff2_84
+    21300172: city-stuff2_85
+    21300174: city-stuff2_86
+    21300176: city-stuff2_87
+    21300178: city-stuff2_88
+    21300180: city-stuff2_89
+    21300182: city-stuff2_90
+    21300184: city-stuff2_91
+    21300186: city-stuff2_92
+    21300188: city-stuff2_93
+    21300190: city-stuff2_94
+    21300192: city-stuff2_95
+    21300194: city-stuff2_96
+    21300196: city-stuff2_97
+    21300198: city-stuff2_98
+    21300200: city-stuff2_99
+    21300202: city-stuff2_100
+    21300204: city-stuff2_101
+    21300206: city-stuff2_102
+    21300208: city-stuff2_103
+    21300210: city-stuff2_104
+    21300212: city-stuff2_105
+    21300214: city-stuff2_106
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: city-stuff2_0
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1858
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_1
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1850
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_2
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1847
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1640
+        width: 519
+        height: 510
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_4
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1827
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_5
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1825
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1787
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1789
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_8
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1792
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1794
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_10
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1789
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_11
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1792
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_12
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1766
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_13
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1771
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1775
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1747
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_16
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1747
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1738
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_18
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1743
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1724
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_20
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1729
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1734
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_22
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1703
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_23
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1708
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_24
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1693
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_25
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1688
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_26
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1703
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_27
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1688
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_28
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1693
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1656
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1654
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_31
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1649
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_32
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1654
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_33
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1589
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1031
+        width: 276
+        height: 283
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_35
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1291
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_36
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1293
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_37
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1269
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_38
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1267
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_39
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1229
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_40
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1232
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_41
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1234
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_42
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1236
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_43
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1232
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_44
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1234
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_45
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1208
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_46
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1213
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_47
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1215
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_48
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1168
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_49
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1185
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_50
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1187
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_51
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1191
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_52
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1190
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_53
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1197
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_54
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1168
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_55
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1189
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_56
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1189
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_57
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1175
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_58
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1180
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_59
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1178
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_60
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1185
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_61
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1168
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_62
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1169
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_63
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_64
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1172
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_65
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1175
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_66
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1176
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_67
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1166
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_68
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1171
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_69
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_70
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1145
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_71
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1145
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_72
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1145
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_73
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1150
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_74
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1136
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_75
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1133
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_76
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_77
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1131
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_78
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_79
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1131
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_80
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1134
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_81
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1134
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_82
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1136
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_83
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1122
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_84
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1129
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_85
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1131
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_86
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1136
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_87
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1105
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_88
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1105
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_89
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1113
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_90
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1110
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_91
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1106
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_92
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1115
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_93
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1110
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_94
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1104
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_95
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1103
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_96
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1101
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_97
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1103
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_98
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1096
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_99
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1096
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_100
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1093
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_101
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1093
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_102
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1093
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 2301
+        height: 893
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_104
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1574
+        width: 126
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_105
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1377
+        width: 641
+        height: 605
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff2_106
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1619
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
