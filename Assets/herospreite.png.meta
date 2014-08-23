@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: b5b19e192ac89480d9fee9ea557b7964
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: herospreite
+    21300002: herospreite_0
+    21300004: herospreite_1
+    21300006: herospreite_2
+    21300008: herospreite_3
+    21300010: herospreite_4
+    21300012: herospreite_5
+    21300014: herospreite_6
+    21300016: herospreite_7
+    21300018: herospreite_8
+    21300020: herospreite_9
+    21300022: herospreite_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: herospreite_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1839
+        width: 379
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_1
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1839
+        width: 343
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_2
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1853
+        width: 343
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_3
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1957
+        width: 342
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1839
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1839
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1839
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_7
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1839
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1848
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_9
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1820
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herospreite_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1843
+        width: 385
+        height: 493
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
