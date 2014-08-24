@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 68347684611484572a75c6e2048a6388
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dialog
+    21300002: dialog_0
+    21300004: dialog_1
+    21300006: dialog_2
+    21300008: dialog_3
+    21300010: dialog_4
+    21300012: dialog_5
+    21300014: dialog_6
+    21300016: dialog_7
+    21300018: dialog_8
+    21300020: dialog_9
+    21300022: dialog_10
+    21300024: dialog_11
+    21300026: dialog_12
+    21300028: dialog_13
+    21300030: dialog_14
+    21300032: dialog_15
+    21300034: dialog_16
+    21300036: dialog_17
+    21300038: dialog_18
+    21300040: dialog_19
+    21300042: dialog_20
+    21300044: dialog_21
+    21300046: dialog_22
+    21300048: dialog_23
+    21300050: dialog_24
+    21300052: dialog_25
+    21300054: dialog_26
+    21300056: dialog_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dialog_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2242
+        width: 753
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_1
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2242
+        width: 461
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2103
+        width: 1049
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_3
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2094
+        width: 1161
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1960
+        width: 816
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1960
+        width: 498
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_6
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1951
+        width: 551
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1825
+        width: 645
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1789
+        width: 193
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_9
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1812
+        width: 887
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_10
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1655
+        width: 386
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_11
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1641
+        width: 403
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1677
+        width: 717
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1691
+        width: 188
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1520
+        width: 430
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1534
+        width: 242
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_16
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1534
+        width: 426
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_17
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1534
+        width: 825
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1395
+        width: 1107
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_19
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1377
+        width: 319
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1256
+        width: 1968
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1086
+        width: 1882
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 947
+        width: 1856
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 821
+        width: 2066
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 1528
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 512
+        width: 856
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 342
+        width: 2277
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 221
+        width: 2227
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

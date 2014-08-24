@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: e64517d46e6c7462ba4bbd8b017d43ad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: city-stuff3
+    21300002: city-stuff3_0
+    21300004: city-stuff3_1
+    21300006: city-stuff3_2
+    21300008: city-stuff3_3
+    21300010: city-stuff3_4
+    21300012: city-stuff3_5
+    21300014: city-stuff3_6
+    21300016: city-stuff3_7
+    21300018: city-stuff3_8
+    21300020: city-stuff3_9
+    21300022: city-stuff3_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: city-stuff3_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1926
+        width: 493
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_1
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1984
+        width: 539
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1519
+        width: 431
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_3
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1452
+        width: 390
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_4
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 656
+        width: 614
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 672
+        width: 856
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_6
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 728
+        width: 278
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 461
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 137
+        width: 687
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_9
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 270
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: city-stuff3_10
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 204
+        width: 324
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

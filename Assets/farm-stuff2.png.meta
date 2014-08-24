@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 5bd519d2f35bf4979ba80c1aa87bc057
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: farm-stuff2
+    21300002: farm-stuff2_0
+    21300004: farm-stuff2_1
+    21300006: farm-stuff2_2
+    21300008: farm-stuff2_3
+    21300010: farm-stuff2_4
+    21300012: farm-stuff2_5
+    21300014: farm-stuff2_6
+    21300016: farm-stuff2_7
+    21300018: farm-stuff2_8
+    21300020: farm-stuff2_9
+    21300022: farm-stuff2_10
+    21300024: farm-stuff2_11
+    21300026: farm-stuff2_12
+    21300028: farm-stuff2_13
+    21300030: farm-stuff2_14
+    21300032: farm-stuff2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: farm-stuff2_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1382
+        width: 703
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_1
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1739
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_2
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1597
+        width: 541
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 922
+        width: 451
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 946
+        width: 450
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_5
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1047
+        width: 539
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_6
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1079
+        width: 296
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 522
+        width: 449
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_8
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 531
+        width: 323
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 447
+        width: 317
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_10
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 437
+        width: 264
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 390
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_12
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 358
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_13
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 372
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 2295
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: farm-stuff2_15
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1547
+        width: 632
+        height: 547
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

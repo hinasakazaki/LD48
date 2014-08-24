@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadLevel2.cs">
+    <Files>
+      <File FileName="Assets/Sample Assets/2D/Scripts/Platformer2DUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/ParallexScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/TalkScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/LoadLevel2.cs" Line="17" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
