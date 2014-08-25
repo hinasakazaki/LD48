@@ -13,7 +13,6 @@ public class ParallexScript : MonoBehaviour {
 	void Awake(){
 		//set up references
 		cam = Camera.main.transform;
-
 	}
 
 	// Use this for initialization

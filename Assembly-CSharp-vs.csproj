@@ -47,8 +47,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\BacktoLevel1.cs" />
+     <Compile Include="Assets\CameraDontDestroy.cs" />
      <Compile Include="Assets\DrawLineScript.cs" />
+     <Compile Include="Assets\EnemyScript.cs" />
+     <Compile Include="Assets\GlowAnimScript.cs" />
+     <Compile Include="Assets\Load3rdLevel.cs" />
      <Compile Include="Assets\LoadLevel2.cs" />
+     <Compile Include="Assets\MusicScript.cs" />
      <Compile Include="Assets\ParallexScript.cs" />
      <Compile Include="Assets\PlayerScript.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Camera2DFollow.cs" />
@@ -56,6 +61,7 @@
      <Compile Include="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Restarter.cs" />
+     <Compile Include="Assets\SwagUponCollideAnim.cs" />
      <Compile Include="Assets\TalkScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

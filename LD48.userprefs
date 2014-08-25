@@ -1,14 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DrawLineScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MusicScript.cs">
     <Files>
-      <File FileName="Assets/Sample Assets/2D/Scripts/Platformer2DUserControl.cs" Line="21" Column="29" />
-      <File FileName="Assets/ParallexScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/TalkScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/LoadLevel2.cs" Line="1" Column="1" />
-      <File FileName="Assets/BacktoLevel1.cs" Line="1" Column="1" />
-      <File FileName="Assets/DrawLineScript.cs" Line="35" Column="37" />
-      <File FileName="Assets/PlayerScript.cs" Line="22" Column="6" />
+      <File FileName="Assets/SwagUponCollideAnim.cs" Line="5" Column="24" />
+      <File FileName="Assets/Load3rdLevel.cs" Line="5" Column="23" />
+      <File FileName="Assets/MusicScript.cs" Line="7" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

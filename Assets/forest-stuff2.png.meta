@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e8348b12224904946aad3353ce186f57
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: forest-stuff2
+    21300002: forest-stuff2_0
+    21300004: forest-stuff2_1
+    21300006: forest-stuff2_2
+    21300008: forest-stuff2_3
+    21300010: forest-stuff2_4
+    21300012: forest-stuff2_5
+    21300014: forest-stuff2_6
+    21300016: forest-stuff2_7
+    21300018: forest-stuff2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: forest-stuff2_0
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 772
+        width: 856
+        height: 1560
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1991
+        width: 735
+        height: 390
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1507
+        width: 1241
+        height: 533
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 951
+        width: 1210
+        height: 395
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_4
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 669
+        width: 210
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_5
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 440
+        width: 161
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 427
+        width: 363
+        height: 444
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 418
+        width: 363
+        height: 439
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: forest-stuff2_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 413
+        width: 265
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
