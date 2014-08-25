@@ -19,7 +19,7 @@ public class DrawLineScript : MonoBehaviour {
 		line = gameObject.AddComponent<LineRenderer> ();
 		line.material = new Material (Shader.Find ("Particles/Additive"));
 		line.SetVertexCount (0);
-		line.SetWidth (0.3f, 0.3f);
+		line.SetWidth (0.1f, 0.1f);
 		line.SetColors (Color.white, Color.white);
 		line.useWorldSpace = true;
 		stitching = false;
@@ -30,6 +30,7 @@ public class DrawLineScript : MonoBehaviour {
 	void Update () {
 		if (hero.isStitching()) {
 			stitching = true;
+			line.SetColors(Color.white, Color.white);
 		}
 		else if (hero.isStitching() == false){
 			pointsList = new List<Vector3>();

@@ -31,16 +31,17 @@ public class SwagUponCollideAnim : MonoBehaviour {
 
 	void Gone(){
 		swag.SetActive (false);
-		Invoke ("Dialog", 1f);
+		Invoke ("Dialog", 0.5f);
 		badTalk.SetActive (true);
 	}
 
 	void Dialog(){
 		talkAnim.SetBool ("swagtalk", true);
-		Invoke ("StopTalk", 3f);
+		Invoke ("StopTalk", 20f);
 	}
 
 	void StopTalk(){
 		talkAnim.SetBool ("swagtalk", false);
+		dialog.SetActive (false);
 	}
 }
