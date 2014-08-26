@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 0223ea8247b84484d9ebb0031df51bca
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ocean-stuff
+    21300002: ocean-stuff_0
+    21300004: ocean-stuff_1
+    21300006: ocean-stuff_2
+    21300008: ocean-stuff_3
+    21300010: ocean-stuff_4
+    21300012: ocean-stuff_5
+    21300014: ocean-stuff_6
+    21300016: ocean-stuff_7
+    21300018: goodbye2
+    21300020: takecare
+    21300022: theyre strong i just want safety
+    21300024: goodbye1
+    21300026: ocean-stuff_12
+    21300028: ocean-stuff_13
+    21300030: ocean-stuff_14
+    21300032: ocean-stuff_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ocean-stuff_0
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1834
+        width: 1331
+        height: 538
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1969
+        width: 354
+        height: 358
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2081
+        width: 117
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1883
+        width: 117
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_4
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1574
+        width: 1022
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_5
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1274
+        width: 1121
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_6
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1032
+        width: 1138
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_7
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 696
+        width: 1027
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goodbye2
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 530
+        width: 323
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: takecare
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 427
+        width: 305
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: theyre strong i just want safety
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 176
+        width: 1134
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: goodbye1
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 73
+        width: 1093
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 86
+        width: 1130
+        height: 664
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_13
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 552
+        width: 322
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_14
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 431
+        width: 345
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocean-stuff_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 817
+        width: 1107
+        height: 999
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

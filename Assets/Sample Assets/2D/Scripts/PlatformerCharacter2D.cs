@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
-
+[RequireComponent(typeof(AudioSource))]
 public class PlatformerCharacter2D : MonoBehaviour 
 {
+	public AudioClip jumpSound;
 	bool facingRight = true;
 	bool doublejump = true;// For determining which way the player is currently facing.
 
@@ -85,6 +86,7 @@ public class PlatformerCharacter2D : MonoBehaviour
             anim.SetBool("Ground", false);
             rigidbody2D.AddForce(new Vector2(0f, jumpForce));
 			doublejump = !doublejump;
+			audio.PlayOneShot(jumpSound, 1.0f);
         }
 	}
 

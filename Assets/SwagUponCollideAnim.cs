@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent(typeof(AudioSource))]
 public class SwagUponCollideAnim : MonoBehaviour {
 	float targetScale = 15.0f;
 	float growSpeed = 0.5f;
@@ -10,6 +11,7 @@ public class SwagUponCollideAnim : MonoBehaviour {
 	public GameObject badTalk;
 	bool sparklesPresent = false;
 	Animator talkAnim;
+	public AudioClip tada;
 
 	// Use this for initialization
 	void Start () {
@@ -19,6 +21,7 @@ public class SwagUponCollideAnim : MonoBehaviour {
 		sparkles.SetActive (true);
 		sparklesPresent = true;
 		Invoke ("Gone", 3f);
+		audio.PlayOneShot(tada, 1.0f);
 	}
 
 	// Update is called once per frame

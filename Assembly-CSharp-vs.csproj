@@ -49,9 +49,11 @@
      <Compile Include="Assets\BacktoLevel1.cs" />
      <Compile Include="Assets\CameraDontDestroy.cs" />
      <Compile Include="Assets\DrawLineScript.cs" />
+     <Compile Include="Assets\EndgameScript.cs" />
      <Compile Include="Assets\EnemyScript.cs" />
      <Compile Include="Assets\GlowAnimScript.cs" />
      <Compile Include="Assets\Load3rdLevel.cs" />
+     <Compile Include="Assets\Load4thLevel.cs" />
      <Compile Include="Assets\LoadGameScript.cs" />
      <Compile Include="Assets\LoadLevel2.cs" />
      <Compile Include="Assets\MusicScript.cs" />
